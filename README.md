@@ -1,11 +1,11 @@
 # GE-Current-Hackathon-API-Tutorial
 This documentation provides more details on how to set up the hackathon environment on Postman, retrieve Intelligent Cities and Intelligent Enterprises access tokens, and how to use those access token to retrieve resources.
 
-Contents
-[Set up Postman Environments](#set-up-postman-environment)
-Retrieve Access Tokens
-Intelligent Cities - Retrieve Parking Zone Details
-Intelligent Enterprises - Retrieve
+### Contents
+- [Set up Postman Environments](#set-up-postman-environment)
+- [Retrieve Access Tokens](#retrieve-access-token)
+- [Intelligent Cities - Retrieve Parking Zone Details](#intelligent-cities---retrieve-parking-zone-details)
+- Intelligent Enterprises (In progress)
 
 ## Set up Postman environment
 1. Download `Predix Transform Hackathon` environment provided by GE.
